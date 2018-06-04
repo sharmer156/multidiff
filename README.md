@@ -1,6 +1,6 @@
 `M U L T I D I F F`
 ===================
-Multidiff: 针对于多个对象或者数据流的二进制（数据）比较工具 [Github上点赞数：188个]
+Multidiff: 针对于多个对象或者数据流的二进制（数据）比较工具
 
 > Multidiff is a sensory augmentation apparatus
 
